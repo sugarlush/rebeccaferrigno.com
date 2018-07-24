@@ -2,7 +2,7 @@
   "name": "rebeccaferrigno.com",
   "version": "1.0.0",
   "description": "The template for rebeccaferrigno.com",
-  "main": "index.php",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
