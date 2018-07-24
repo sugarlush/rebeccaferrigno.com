@@ -1,0 +1,22 @@
+{
+  "name": "rebeccaferrigno.com",
+  "version": "1.0.0",
+  "description": "The template for rebeccaferrigno.com",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugarlush/rebeccaferrigno.com.git"
+  },
+  "author": "Brian Ferrigno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugarlush/rebeccaferrigno.com/issues"
+  },
+  "homepage": "https://github.com/sugarlush/rebeccaferrigno.com#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
