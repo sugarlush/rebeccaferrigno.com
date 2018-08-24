@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sugarlush/rebeccaferrigno.com#readme",
   "dependencies": {
     "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
